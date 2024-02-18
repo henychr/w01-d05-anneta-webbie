@@ -279,7 +279,6 @@ b {
 .section5__table p {
   font-size: 1.2rem;
 }
-
 .section5__bar-HTML {
   display: flex;
   flex-direction: row;
@@ -289,10 +288,115 @@ b {
   width: 20%;
 }
 .section5__bar-HTML > .green__bar {
-  width: 80%;
+  width: 60%;
 }
 .section5__bar-HTML .Lgrey__bar {
   width: 20%;
+}
+
+.section5__bar-CSS {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-CSS > .grey__bar {
+  width: 20%;
+}
+.section5__bar-CSS > .green__bar {
+  width: 60%;
+}
+.section5__bar-CSSL .Lgrey__bar {
+  width: 20%;
+}
+
+.section5__bar-JavaScript {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-JavaScript > .grey__bar {
+  width: 20%;
+}
+.section5__bar-JavaScript > .green__bar {
+  width: 60%;
+}
+.section5__bar-JavaScript .Lgrey__bar {
+  width: 20%;
+}
+
+.section5__bar-React {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-React > .grey__bar {
+  width: 20%;
+}
+.section5__bar-React > .green__bar {
+  width: 60%;
+}
+.section5__bar-React .Lgrey__bar {
+  width: 20%;
+}
+
+.section5__bar-jQuery {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-jQuery > .grey__bar {
+  width: 20%;
+}
+.section5__bar-jQuery > .green__bar {
+  width: 60%;
+}
+.section5__bar-jQuery .Lgrey__bar {
+  width: 20%;
+}
+
+.section5__bar-PHP {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-PHP > .grey__bar {
+  width: 20%;
+}
+.section5__bar-PHP > .green__bar {
+  width: 50%;
+}
+.section5__bar-PHP .Lgrey__bar {
+  width: 30%;
+}
+
+.section5__bar-Laravel {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-Laravel > .grey__bar {
+  width: 20%;
+}
+.section5__bar-Laravel > .green__bar {
+  width: 50%;
+}
+.section5__bar-Laravel .Lgrey__bar {
+  width: 30%;
+}
+
+.section5__bar-UX {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+}
+.section5__bar-UX > .grey__bar {
+  width: 20%;
+}
+.section5__bar-UX > .green__bar {
+  width: 40%;
+}
+.section5__bar-UX .Lgrey__bar {
+  width: 40%;
 }
 
 /* END OF SECTION 5 */
